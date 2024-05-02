@@ -19,6 +19,7 @@ Some of my techincal knowledge are listed below (is not ordered by proficiency).
    <img align="center" width="50px" src="https://cdn.worldvectorlogo.com/logos/grails-1.svg" title="Grails">
    <img align="center" width="70px" src="https://objectcomputing.com/files/2616/2275/4406/micronaut_stacked_black.svg" title="Micronaut">
    <img align="center" width="40px" src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" title="Bash/Shell Script">
+  <img align="center" width="30px" src="https://cdn.worldvectorlogo.com/logos/kafka.svg" title="Kafka">
   </div>
 
 ### I'm very interested in learn about:
